@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 014e514a97354f644bd15acfdb1d2e1f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_buttons (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2083
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ee63e45e1db340a6d231633a8d68e
+      internalID: 1395559116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2083
+        width: 208
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad36795ba675ec4e9142ff7b7781b7a
+      internalID: -528756829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_10
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2086
+        width: 220
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db21d04a54204049a703d526e55db37
+      internalID: -1766169132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1635
+        width: 221
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681a82971bc474045b026821bd0ec875
+      internalID: -705851307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1636
+        width: 210
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2949f5463667a7642b7c5f29c48ef795
+      internalID: -338352041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1635
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f72e6a3a4669945a9be90da80a588e
+      internalID: 170726788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1642
+        width: 219
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a893fdbbab6584a8064c7617f590f0
+      internalID: 454362817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_48
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1180
+        width: 212
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c99e081f682674f87adf5185383b14
+      internalID: 1139783001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_50
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1176
+        width: 209
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162af24600d3264796b3caa74813838
+      internalID: 1135533604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1176
+        width: 219
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e60fb9aa68630418d6972c5bcf254f
+      internalID: 1327243477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_buttons (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1176
+        width: 220
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c18ce6d2e02ac4093cc053e33bd97b
+      internalID: 394232802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game_buttons (1)_43: 931285952
+      game_buttons (1)_55: -879992403
+      game_buttons (1)_51: -719798429
+      game_buttons (1)_17: -198515231
+      game_buttons (1)_9: 668052174
+      game_buttons (1)_5: -744721644
+      game_buttons (1)_15: 408732786
+      game_buttons (1)_29: 1850619520
+      game_buttons (1)_47: 1822131917
+      game_buttons (1)_50: 1135533604
+      game_buttons (1)_11: -1722146061
+      game_buttons (1)_37: 1754966081
+      game_buttons (1)_30: -637020894
+      game_buttons (1)_39: 1258585217
+      game_buttons (1)_56: 1628410400
+      game_buttons (1)_49: 906255953
+      game_buttons (1)_33: -692151967
+      game_buttons (1)_28: 454362817
+      game_buttons (1)_36: 707265130
+      game_buttons (1)_25: 712399088
+      game_buttons (1)_4: -158657472
+      game_buttons (1)_8: -528756829
+      game_buttons (1)_6: -572070811
+      game_buttons (1)_41: -1052041599
+      game_buttons (1)_18: -1939527493
+      game_buttons (1)_13: 865932875
+      game_buttons (1)_26: -338352041
+      game_buttons (1)_59: 1022298839
+      game_buttons (1)_7: 1395559116
+      game_buttons (1)_46: 1325225200
+      game_buttons (1)_38: 1784029762
+      game_buttons (1)_35: 582082826
+      game_buttons (1)_27: 170726788
+      game_buttons (1)_2: -517798132
+      game_buttons (1)_60: 197923067
+      game_buttons (1)_62: -2044115952
+      game_buttons (1)_31: -970999470
+      game_buttons (1)_63: 1545843739
+      game_buttons (1)_57: -2126391586
+      game_buttons (1)_61: 1722960550
+      game_buttons (1)_44: -350929127
+      game_buttons (1)_52: 1327243477
+      game_buttons (1)_58: -2086003990
+      game_buttons (1)_54: -780374362
+      game_buttons (1)_64: 723319647
+      game_buttons (1)_3: 960426190
+      game_buttons (1)_14: 1463336856
+      game_buttons (1)_23: 767339474
+      game_buttons (1)_20: -1366773155
+      game_buttons (1)_32: 969495383
+      game_buttons (1)_10: -1766169132
+      game_buttons (1)_34: -153342802
+      game_buttons (1)_40: -728784365
+      game_buttons (1)_21: -1753792112
+      game_buttons (1)_24: -705851307
+      game_buttons (1)_1: -607025788
+      game_buttons (1)_45: 1348026271
+      game_buttons (1)_22: 199880185
+      game_buttons (1)_0: -227329086
+      game_buttons (1)_19: -1443047620
+      game_buttons (1)_53: 394232802
+      game_buttons (1)_16: 510089518
+      game_buttons (1)_42: 125722251
+      game_buttons (1)_48: 1139783001
+      game_buttons (1)_12: -1642270661
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
